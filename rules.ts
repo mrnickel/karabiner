@@ -76,7 +76,8 @@ const rules: KarabinerRules[] = [
       z: app("zoom.us"),
       f: app("Finder"),
       x: app("Xcode"),
-      n: app("Obsidian")
+      n: app("Obsidian"),
+      m: app("Spotify")
     },
 
     // w = "Window" via rectangle.app
